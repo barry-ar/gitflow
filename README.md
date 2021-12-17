@@ -41,5 +41,5 @@
 **Remarque:**
 *Les cycles de vie des branche se termione par la validation des fonctionnalités, des correctif des bug.*
 
-![commiGitflow](https://user-images.githubusercontent.com/50138085/146573809-553bf6be-03df-479e-9511-e7415ca6b39e.jpg)
+![commiGitflow](https://user-images.githubusercontent.com/50138085/146574272-2a6686f0-96ff-4451-8f19-65d28ee50105.jpg)
 
