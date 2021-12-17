@@ -16,11 +16,11 @@
 ### Regle des commit
  ***Format**:* 
 `Type: Sujet`
-- feat: "*Ajout d'une nouvelle fonctionalité*"
-- fix: "*Correction bug*"
-- revert: "*Annulation de commit*"
-- docs: "*Docummentation*"
-- chore: "*Autre modification*"
+- "feat: *Ajout d'une nouvelle fonctionalité*"
+- "fix: *Correction bug*"
+- "revert: *Annulation de commit*"
+- "docs: *Docummentation*"
+- "chore: *Autre modification*"
 #### Sujet
 - Moin de 50 caractères
 - Verbe imperatif: add, update, remove, change
