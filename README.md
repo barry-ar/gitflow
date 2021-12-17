@@ -6,9 +6,9 @@
 - [x] Stage
 - [x] Develope
 ### Branche temporaire
-- [x] feat-emple
-- [x] hotfix-emple
-- [x] bugfix-emple
+- [x] feature/pseudo/description
+- [x] hotfix/pseudo/description
+- [x] bugfix/pseudo/description
 ### Avant Pull Request
 - Review du code par les autre developpeur
 - Squash Merge
