@@ -40,3 +40,6 @@
 3. ***bugfix:*** *Est créée lorsqu'un bug est trouvé dans le Master, qui n'est pas urgent et peut être transfère dans la prochaine version*
 **Remarque:**
 *Les cycles de vie des branche se termione par la validation des fonctionnalités, des correctif des bug.*
+
+![commiGitflow drawio](https://user-images.githubusercontent.com/50138085/146572718-5fab766d-36b6-4923-9fbc-5509d2d863e3.png)
+
